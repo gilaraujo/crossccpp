@@ -1,0 +1,7 @@
+Debug
+/.vs
+*.sdf
+*.opensdf
+*.htm
+*.user
+*.log
