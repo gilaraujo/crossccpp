@@ -1,4 +1,4 @@
-#include "HMyClass.h"
+#include "..\MyLib\HMyClass.h"
 #include <stdio.h>
 
 void my_eh( const char * error_message, void * unused)
